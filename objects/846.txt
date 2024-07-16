@@ -24,7 +24,7 @@ useDistance=1
 sounds=198:0.250000,496:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 numSlots=3#timeStretch=1.000000
-slotSize=2
+slotSize=2.000000
 slotPos=-28.000000,-7.000000,vert=-96,parent=5
 slotPos=-6.000000,-6.000000,vert=87,parent=5
 slotPos=14.000000,-7.000000,vert=34,parent=5
