@@ -21,7 +21,7 @@ useDistance=1
 sounds=-1:0.250000,-1:0.250000,-1:0.250000,-1:1.000000
 creationSoundInitialOnly=0
 numSlots=0#timeStretch=1.000000
-slotSize=1
+slotSize=1.000000
 numSprites=2
 spriteID=383
 pos=0.000000,0.000000
