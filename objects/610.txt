@@ -1,7 +1,7 @@
 id=610
 Fed Mouflon Lamb#post hungry
 containable=0
-containSize=1,vertSlotRot=-0.195000
+containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
